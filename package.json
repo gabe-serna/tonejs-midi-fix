@@ -1,6 +1,6 @@
 {
-	"name": "@tonejs/midi",
-	"version": "2.0.0",
+	"name": "tonejs-midi-fix",
+	"version": "2.0.28",
 	"description": "Convert binary midi into JSON",
 	"main": "build/Midi.js",
 	"module": "dist/Midi.js",
@@ -21,16 +21,17 @@
 		"dist",
 		"src",
 		"LICENSE.md",
-		"README.md"
+		"README.md",
+		"DOCS.md"
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Tonejs/Midi.git"
+		"url": "https://github.com/gabe-serna/tonejs-midi-fix.git"
 	},
-	"author": "Yotam Mann",
+	"author": "Gabriel Serna",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/Tonejs/Midi/issues"
+		"url": "https://github.com/gabe-serna/tonejs-midi-fix/issues"
 	},
 	"homepage": "https://tonejs.github.com/Midi/",
 	"devDependencies": {
